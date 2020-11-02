@@ -1,2 +1,2 @@
 # PythonApp
-My App built in Python
+My App built in Python.
